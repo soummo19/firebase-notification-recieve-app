@@ -1,1 +1,2 @@
-# firebase-notification-recieve-app
+## npm install firebase
+## npm start 
